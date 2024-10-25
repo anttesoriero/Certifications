@@ -5,23 +5,9 @@ To further my professional development and technical knowledge, I've decided to 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
 
 ### Certificates
-- [IBM Product Manager Professional Certificate](#ibm-product-manager-professional-certificate)
 - [IBM DevOps and Software Engineering Professional Certificate](#ibm-devops-and-software-engineering-professional-certificate)
 - [IBM Full Stack Software Developer Certification](#ibm-full-stack-software-developer-certification)
 - [IBM DevOps, Cloud, and Agile Foundations Certification](#ibm-devops-cloud-and-agile-foundations-certification)
-
----
-
-### IBM Product Manager Professional Certificate
-##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-product-manager?authProvider=apple)
-##### ***In Progress*** - Updated October 2024
-1. Product Management: An Introduction
-2. Product Management: Foundations & Stakeholder Collaboration
-3. Product Management: Initial Product Strategy and Plan
-4. Product Management: Developing and Delivering a New Product
-5. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
-6. Product Management: Capstone Project
-7. Practice Exam for AIPMM Certified Product Manager (CPM)
 
 ---
 
