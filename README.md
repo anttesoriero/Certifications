@@ -1,5 +1,5 @@
 # Certification Repository
-###### Updated 20 October 2024
+###### Updated 24 October 2024
 To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored inside the course itself (such as IBM Cloud in some assignments). It's also a place I can track what I'm up to outside of Coursera.
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
@@ -25,9 +25,9 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 8. Developing AI Applications with Python and Flask - **Completed** - [Certificate](https://coursera.org/share/981f1462cfdc3e7c972446db35461e0a)
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
 10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
-11. Introduction to Test and Behavior Driven Development - ***In Progress***
-12. Continuous Inegration and Continuous Delivery (CI/CD)
-13. Application Security for Developers and DevOps Professionals
+11. Introduction to Test and Behavior Driven Development - **Completed** - [Certificate](https://coursera.org/share/9971eda53e9e2cf246f2cc2fa756ce97)
+12. Continuous Inegration and Continuous Delivery (CI/CD) - **Completed** - [Certificate](https://coursera.org/share/934a105c41acc9383582fbe62b6b9b27)
+13. Application Security for Developers and DevOps Professionals - ***In Progress***
 14. Monitoring and Observability for Development and DevOps
 15. DevOps Capstone Project
 
