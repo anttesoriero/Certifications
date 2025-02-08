@@ -29,8 +29,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 11. Introduction to Test and Behavior Driven Development - **Completed** - [Certificate](https://coursera.org/share/9971eda53e9e2cf246f2cc2fa756ce97)
 12. Continuous Inegration and Continuous Delivery (CI/CD) - **Completed** - [Certificate](https://coursera.org/share/934a105c41acc9383582fbe62b6b9b27)
 13. Application Security for Developers and DevOps Professionals - **Completed** - [Certificate](https://coursera.org/share/d80a3f80fb176e7d27dbf0ce40a6b371)
-14. Monitoring and Observability for Development and DevOps - ***In Progress***
-15. DevOps Capstone Project
+14. Monitoring and Observability for Development and DevOps - **Completed** - [Certificate](https://coursera.org/share/3dca6d017c4d8d3a017c24b2eb64288c)
+15. DevOps Capstone Project - ***In Progress***
 
 ---
 
