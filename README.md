@@ -5,9 +5,27 @@ To further my professional development and technical knowledge, I've decided to 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
 
 ### Certificates
+- [IBM Data Analyst Professional Certificate](https://github.com/anttesoriero/Certifications/edit/main/README.md#ibm-data-analyst-professional-certificate)
 - [IBM DevOps and Software Engineering Professional Certificate](#ibm-devops-and-software-engineering-professional-certificate)
 - [IBM Full Stack Software Developer Certification](#ibm-full-stack-software-developer-certification)
 - [IBM DevOps, Cloud, and Agile Foundations Certification](#ibm-devops-cloud-and-agile-foundations-certification)
+
+---
+
+### IBM Data Analyst Professional Certificate
+##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-data-analyst?authProvider=apple)
+##### ***In Progress*** - as of March 2025
+1. Intro to Data Analytics - ***In Progress***
+2. Excel Baics for Data Analytics
+3. Data Visualization and Dashboards with Excel and Cognos
+4. Python for Data Science, AI & Development - **Completed** - [Certificate](https://coursera.org/share/2ace7371e15d50b790424b47083b275d)
+5. Python Project for Data Science
+6. Databases and SQL for Data Science with Python
+7. Data Analysis with Python
+8. Data Visualization with Python
+9. IBM Data Analyst Capstone Project
+10. Geneverative AI: Enhance your Data Analytics Career
+11. Data Analyst Career Guide and Interview Prep
 
 ---
 
