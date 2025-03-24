@@ -1,5 +1,5 @@
 # Certification Repository
-###### Updated 24 October 2024
+###### Updated 24 March 2025
 To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored inside the course itself (such as IBM Cloud in some assignments). It's also a place I can track what I'm up to outside of Coursera.
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
@@ -13,7 +13,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 
 ### IBM DevOps and Software Engineering Professional Certificate
 ##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/devops-and-software-engineering?authProvider=apple)
-##### ***In Progress*** - Updated October 2024
+##### **Completed** - 19 February 2025 - [Full Course Certificate](https://coursera.org/share/facc44a486b0c0a13777c7e9d0b3a1da)
 1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
 2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
 3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
@@ -30,7 +30,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 12. Continuous Inegration and Continuous Delivery (CI/CD) - **Completed** - [Certificate](https://coursera.org/share/934a105c41acc9383582fbe62b6b9b27)
 13. Application Security for Developers and DevOps Professionals - **Completed** - [Certificate](https://coursera.org/share/d80a3f80fb176e7d27dbf0ce40a6b371)
 14. Monitoring and Observability for Development and DevOps - **Completed** - [Certificate](https://coursera.org/share/3dca6d017c4d8d3a017c24b2eb64288c)
-15. DevOps Capstone Project - ***In Progress***
+15. DevOps Capstone Project - **Completed** - [Certificate](https://coursera.org/share/f4b4841895701fecee438199ae91b525)
 
 ---
 
